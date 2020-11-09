@@ -1,6 +1,5 @@
-import json
-import re
 from random import choice
+__author__ = 'Markus - elec3647'
 
 alpha = 'abcdefghijklmnopqrstuvwxyz'
 
